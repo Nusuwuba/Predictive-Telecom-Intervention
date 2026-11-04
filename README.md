@@ -1,4 +1,4 @@
-Predictive Telecom Intervention
+# Predictive Telecom Intervention
 
 ## Overview
 This repository contains a machine learning pipeline and business strategy designed to transform a standard telecom churn prediction model into a proactive intervention engine. It addresses a 49.5% baseline churn rate heavily driven by hardware fatigue. 
